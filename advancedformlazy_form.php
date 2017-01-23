@@ -1,6 +1,6 @@
 <?php
 
-class simpleform_form extends moodleform {
+class advancedformlazy_form extends moodleform {
 
     /**
      * Form definition.
